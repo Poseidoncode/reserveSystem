@@ -11,7 +11,7 @@ const routes = [
       needNav: true,
     },
     // redirect: "/home",
-    // component: () => import("@/views/products.vue"),
+    component: () => import("@/App.vue"),
   },
 ];
 
