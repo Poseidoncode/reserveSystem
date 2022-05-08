@@ -20,7 +20,7 @@ const router = createRouter({
   routes,
 });
 
-///
+///d
 // router.beforeEach((to, from, next) => {
 //   if (!store.getters.g_isLogin && to.name !== "Login") {
 //     const _authData = sessionStorage.getItem("authData")
