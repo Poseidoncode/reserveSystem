@@ -1,7 +1,7 @@
 <template>
   <sidebar @setMarker="setMarker" @setCenterData="setCenterData"></sidebar>
 
-  <div style="height: 100vh; width: 100vw">
+  <div style="height: 100vh; width: 1001vw">
     <l-map
       v-model="zoom"
       v-model:zoom="zoom"
